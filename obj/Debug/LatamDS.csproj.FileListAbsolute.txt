@@ -1,0 +1,61 @@
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.csprojResolveAssemblyReference.cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.formularios.cliente.AdministarCliente.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.formularios.cliente.ConsultarCliente.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.formularios.factura.AdministrarFactura.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.formularios.factura.ConsultarFactura.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.formularios.reporte.VistaReporte.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.MenuPrincipal.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.Properties.Resources.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\LatamDS.csproj.GenerateResource.Cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\RdlCompile.cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\NormanApp - copia\LatamDS\obj\Debug\RdlCompile.compiled
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.formularios.cliente.AdministarCliente.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.formularios.cliente.ConsultarCliente.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.formularios.factura.AdministrarFactura.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.formularios.factura.ConsultarFactura.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.MenuPrincipal.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.Properties.Resources.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.csproj.GenerateResource.Cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\LatamDS.exe.config
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\LatamDS.exe.manifest
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\LatamDS.application
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\LatamDS.exe
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\LatamDS.pdb
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\FlashControlV71.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\MySql.Data.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.TrustInfo.xml
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.exe.manifest
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.application
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.exe
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.pdb
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.csprojResolveAssemblyReference.cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\LatamDS.formularios.reporte.VentanaReporte.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\RdlCompile.cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS\LatamDS\obj\Debug\RdlCompile.compiled
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.formularios.cliente.AdministarCliente.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.formularios.cliente.ConsultarCliente.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.formularios.factura.AdministrarFactura.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.formularios.factura.ConsultarFactura.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.formularios.reporte.VentanaReporte.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.MenuPrincipal.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.Properties.Resources.resources
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.csproj.GenerateResource.Cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\LatamDS.exe.config
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\LatamDS.exe.manifest
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\LatamDS.application
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\LatamDS.exe
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\LatamDS.pdb
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\FlashControlV71.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\MySql.Data.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.csprojResolveAssemblyReference.cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.TrustInfo.xml
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.exe.manifest
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.application
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.exe
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\LatamDS.pdb
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\RdlCompile.cache
+C:\Users\PC-VEC-004\Documents\Proyecto\LatamDS_\LatamDS\obj\Debug\RdlCompile.compiled
